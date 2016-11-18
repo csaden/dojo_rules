@@ -12,3 +12,4 @@ Skills:
 * Jasmine
 * Sinon
 * Chai
+* Killing history using git rebase
